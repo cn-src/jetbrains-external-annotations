@@ -1,0 +1,47 @@
+<root>
+    <item name='org.apache.commons.lang3.ArrayUtils boolean isNotEmpty(T[])'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val val="&quot;null -&gt; false&quot;"/>
+        </annotation>
+    </item>
+    <item name='org.apache.commons.lang3.ArrayUtils boolean isNotEmpty(boolean[])'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val val="&quot;null -&gt; false&quot;"/>
+        </annotation>
+    </item>
+    <item name='org.apache.commons.lang3.ArrayUtils boolean isNotEmpty(byte[])'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val val="&quot;null -&gt; false&quot;"/>
+        </annotation>
+    </item>
+    <item name='org.apache.commons.lang3.ArrayUtils boolean isNotEmpty(char[])'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val val="&quot;null -&gt; false&quot;"/>
+        </annotation>
+    </item>
+    <item name='org.apache.commons.lang3.ArrayUtils boolean isNotEmpty(double[])'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val val="&quot;null -&gt; false&quot;"/>
+        </annotation>
+    </item>
+    <item name='org.apache.commons.lang3.ArrayUtils boolean isNotEmpty(float[])'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val val="&quot;null -&gt; false&quot;"/>
+        </annotation>
+    </item>
+    <item name='org.apache.commons.lang3.ArrayUtils boolean isNotEmpty(int[])'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val val="&quot;null -&gt; false&quot;"/>
+        </annotation>
+    </item>
+    <item name='org.apache.commons.lang3.ArrayUtils boolean isNotEmpty(long[])'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val val="&quot;null -&gt; false&quot;"/>
+        </annotation>
+    </item>
+    <item name='org.apache.commons.lang3.ArrayUtils boolean isNotEmpty(short[])'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val val="&quot;null -&gt; false&quot;"/>
+        </annotation>
+    </item>
+</root>
